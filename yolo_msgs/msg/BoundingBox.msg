@@ -1,0 +1,2 @@
+string class_name
+vision_msgs/BoundingBox2D bounding_box
